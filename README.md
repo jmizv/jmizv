@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://profile-counter.glitch.me/jmizv/count.svg"> (counting since Dec. 13th, 2022)
+
 <!--
 **jmizv/jmizv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
