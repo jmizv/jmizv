@@ -5,9 +5,12 @@ This is where I host most of the programming stuff I'm interested in. Currently 
 The topics my projects are built on or for:
 
 1) Music
-2) [OpenStreetMap](https://www.openstreetmap.org/)
-3) [Skat](https://en.wikipedia.org/wiki/Skat_(card_game))
+   1) [last.fm](https://www.last.fm/user/killerblau)
+   1) [discogs.com](https://www.discogs.com/user/killerblau)
+1) [OpenStreetMap](https://www.openstreetmap.org/)
+1) [Skat](https://en.wikipedia.org/wiki/Skat_(card_game))
 
+And most of the time they play with statistics.
 
 Some spying for my personal entertainment:
 
