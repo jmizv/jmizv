@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi there 👋
+
+This is where I host most of the programming stuff I'm interested in. Currently I'm trying to migrate to [CodeBerg.org](https://www.codeberg.org) as it is a non-profit community for hosting code but everyone only knows Github or GitLab...
+
+The topics my projects are built on or for:
+
+1) Music
+2) [OpenStreetMap](https://www.openstreetmap.org/)
+3) [Skat](https://en.wikipedia.org/wiki/Skat_(card_game))
+
 
 Some spying for my personal entertainment:
 
