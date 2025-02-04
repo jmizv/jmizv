@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is where I host most of the programming stuff I'm interested in. Currently I'm trying to migrate to [CodeBerg.org](https://www.codeberg.org). This is a non-profit community for hosting code like Github but without Microsoft in the background.
+This is where I host most of the programming stuff I'm interested in. Currently, some code is also hosted at [CodeBerg.org](https://www.codeberg.org/jmizv).
 
 The topics my projects are built on or for:
 
